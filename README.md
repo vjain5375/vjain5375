@@ -118,7 +118,18 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 48 commits          ██████████████████░░░░░░░   70.59 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -128,7 +139,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/03/2026 22:09:08 UTC
+ Last Updated on 15/03/2026 22:14:51 UTC
 <!--END_SECTION:waka-->
 </div>
 
