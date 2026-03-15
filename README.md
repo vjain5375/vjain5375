@@ -109,8 +109,12 @@ I don't stick to one box—I build whatever interests me.
 
 <br/>
 
-<!-- Snake Animation (Grid) -->
-<img src="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+<!-- Snake Animation (Dark Mode Friendly) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
