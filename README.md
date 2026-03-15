@@ -1,36 +1,38 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:000000&height=180&section=header&text=Vansh%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20Building%20Cool%20Sh*t&descAlignY=62&descSize=20" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Vansh%20Jain&fontSize=70&color=0:6C63FF,100:a855f7&fontColor=ffffff&animation=fadeIn&stroke=6C63FF&strokeWidth=2" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=CS+%26+Design+%40+RGIPT+%F0%9F%8E%93;Fine-tuning+LLMs+%7C+Building+Full-Stack+Apps;3D+Portfolios+%7C+Real-time+Code+Execution;From+model+weights+to+UI+%E2%80%94+end+to+end.)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vjain5375&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjain5375@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-jain-8b3704273/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-jain-portfolio.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=vjain5375&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vjain5375)
+<div align="center">
+<table>
+<tr>
+<td align="left" width="500">
 
+### 💀 The Origin Story
+
+**"I write code, break things, and occasionally fix them."**
+
+I'm a **Full Stack Developer** and **CS & Design undergrad** at RGIPT.
+I don't stick to one box—I build whatever interests me.
+
+- 🔭 **Main Game:** Full Stack Web Development (MERN / Next.js)
+- 🧪 **Side Quests:** AI/ML Experiments
+- ⚡ **Current Status:** Building, Learning, & Drinking Coffee.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-B91C1C?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-jain-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-jain-8b3704273/)
+
+</td>
+</tr>
+</table>
 </div>
-
----
-
-## ⚡ About Me
-
-```python
-vansh = {
-    "college"   : "Rajiv Gandhi Institute of Petroleum Technology (RGIPT)",
-    "degree"    : "B.Tech — Computer Science & Design  |  CPI: 8.21",
-    "based_in"  : "India 🇮🇳",
-    "interests" : ["LLMs", "Distributed Systems", "AI for Education", "3D Web"],
-    "currently" : [
-        "DSA Coordinator @ Kode Club, RGIPT",
-        "Co-Head Events @ E-Cell RGIPT",
-        "Breaking things and fixing them faster",
-    ],
-    "ask_me_about" : "fine-tuning LLMs, Next.js, or why your React app re-renders too much",
-}
-```
 
 ---
 
@@ -38,141 +40,86 @@ vansh = {
 
 <div align="center">
 
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,html,css&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark)](https://skillicons.dev)
-
-**AI / ML & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,git,github,vercel,vscode&theme=dark)](https://skillicons.dev)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LLaMA-3](https://img.shields.io/badge/LLaMA--3-0467DF?style=flat-square&logo=meta&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA_Fine--tuning-8B5CF6?style=flat-square)
-![Judge0](https://img.shields.io/badge/Judge0_API-1a1a2e?style=flat-square)
+| **Frontend** | **Backend** | **Languages** | **Tools & AI** |
+| :---: | :---: | :---: | :---: |
+| ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next](https://skillicons.dev/icons?i=nextjs&theme=dark) | ![Node](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Mongo](https://skillicons.dev/icons?i=mongodb&theme=dark) | ![JS](https://skillicons.dev/icons?i=js&theme=dark) ![TS](https://skillicons.dev/icons?i=ts&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Three](https://skillicons.dev/icons?i=threejs&theme=dark) | ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![CPP](https://skillicons.dev/icons?i=cpp&theme=dark) | ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 [Money Matters AI](https://money-matters-frontend-six.vercel.app)
-**LLM-Based Personal Finance Assistant**
-
-Fine-tuned **Meta LLaMA-3 8B** with **LoRA** on financial Q&A datasets. Built the full pipeline — data preprocessing, instruction formatting, NLP expense classifier, and a web interface where you just ask it things in plain English.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LLaMA-3](https://img.shields.io/badge/LLaMA--3-0467DF?style=flat-square&logo=meta&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-8B5CF6?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ [Kode Club](https://kode-club-alpha.vercel.app)
-**Full Stack Coding & Quiz Platform**
-
-Built for RGIPT's coding club. Real-time code execution via **Judge0**, Google OAuth + JWT auth, admin dashboard with JSON-based quiz uploads. Actually used by students — which still feels surreal.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-### 🌐 [Personal Portfolio](https://vansh-jain-portfolio.vercel.app)
-**Interactive WebGL Portfolio**
-
-Wanted to see if I could pull off 3D scenes in a browser. Built with **Three.js + React Three Fiber**, fluid scroll animations via **Framer Motion**, deployed on Vercel with CI/CD. The answer was yes.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 💥 Featured Missions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vjain5375&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjain5375&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-<img src="https://streak-stats.demolab.com/?user=vjain5375&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vjain5375&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjain5375&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏅 Roles & Achievements
-
-<div align="center">
-
-| | Role | Place | When |
-|---|---|---|---|
-| 🧑‍💻 | DSA Coordinator | Kode Club, RGIPT | Aug 2025 – Present |
-| 🚀 | Co-Head, Event Team | E-Cell, RGIPT | Jan 2026 – Present |
-| 🌟 | Campus Ambassador | E-Cell IIT Bombay (NEC'25) | Jul – Dec 2025 |
-| 🎓 | Campus Ambassador | EDC IIT Delhi (BECon'26) | Dec 2025 – Feb 2026 |
-
-</div>
+| **💸 Money Matters AI** | **🖥️ Kode Club Platform** |
+|:---:|:---:|
+| **"Where did all my money go?" — solved.**<br/>Fine-tuned **LLaMA-3 8B** on financial data.<br/>`Python` `PyTorch` `React` | **Production-grade coding platform.**<br/>Real-time code execution with **Judge0**.<br/>`Next.js` `TypeScript` `MongoDB` |
+| [🔴 Live Demo](https://money-matters-frontend-six.vercel.app) | [🔴 Live Demo](https://kode-club-alpha.vercel.app) |
 
 <br/>
 
-> 🥇 Top **20%** of CS & Design cohort at RGIPT &nbsp;·&nbsp; 📜 NSP Scholar (PM YASASVI) &nbsp;·&nbsp; ✅ JEE Main & Advanced Qualified
+| **🌐 3D Portfolio** |
+|:---:|
+| **WebGL Playground.**<br/>Interactive 3D scenes with **React Three Fiber**.<br/>`Three.js` `Framer Motion` |
+| [🔴 Live Demo](https://vansh-jain-portfolio.vercel.app/) |
+
+</div>
+
+---
+
+## 📂 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/vjain5375/Money-Matters-Frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjain5375&repo=Money-Matters-Frontend&theme=radical&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" />
+  </a>
+  <a href="https://github.com/vjain5375/kode-klub-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjain5375&repo=kode-klub-frontend&theme=radical&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/vjain5375/portfolio-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjain5375&repo=portfolio-website&theme=radical&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" />
+  </a>
+  <a href="https://github.com/vjain5375/the-bug-slayers-final">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjain5375&repo=the-bug-slayers-final&theme=radical&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" />
+  </a>
+</div>
+
+---
+
+## 📊 Combat Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vjain5375&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjain5375&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" height="160" />
+
+<br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=vjain5375&theme=radical&hide_border=true&background=0D1117&ring=B91C1C&currStreak=B91C1C" />
+
+<br/>
+
+<!-- Activity Graph (Wave) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vjain5375&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=B91C1C" width="100%" />
+
+<br/>
+
+<!-- Snake Animation (Grid) -->
+<img src="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
-
-*open to collabs on AI/ML projects, full-stack apps, or anything that seems too ambitious*
-
-**vjain5375@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:a855f7&height=100&section=footer" />
-
+  
+  [![Email](https://img.shields.io/badge/vjain5375@gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjain5375@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-jain-8b3704273/)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:000000&height=100&section=footer" />
 </div>
