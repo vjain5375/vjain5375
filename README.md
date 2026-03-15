@@ -115,7 +115,10 @@ I don't stick to one box—I build whatever interests me.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/vjain5375/vjain5375/blob/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br />
+<!-- WakaTime Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 ---
