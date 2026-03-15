@@ -120,35 +120,6 @@ I don't stick to one box—I build whatever interests me.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 14 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 48 commits          ██████████████████░░░░░░░   72.73 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,7 +128,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/03/2026 22:04:14 UTC
+ Last Updated on 15/03/2026 22:09:08 UTC
 <!--END_SECTION:waka-->
 </div>
 
