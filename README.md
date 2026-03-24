@@ -94,7 +94,7 @@ I don't stick to one box—I build whatever interests me.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vjain5375&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=vjain5375&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjain5375&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B91C1C&icon_color=B91C1C" height="160" />
 
 <br/>
