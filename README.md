@@ -56,14 +56,14 @@ I don't stick to one box—I build whatever interests me.
 | **💸 Money Matters AI** | **🖥️ Kode Club Platform** |
 |:---:|:---:|
 | **"Where did all my money go?" — solved.**<br/>Fine-tuned **LLaMA-3 8B** on financial data.<br/>`Python` `PyTorch` `React` | **Production-grade coding platform.**<br/>Real-time code execution with **Judge0**.<br/>`Next.js` `TypeScript` `MongoDB` |
-| [🔴 Live Demo](https://money-matters-frontend-six.vercel.app) | [🔴 Live Demo](https://kode-club-alpha.vercel.app) |
+| [🔴 Live Demo](https://www.moneymattersai.tech/) | [🔴 Live Demo](https://kode-club-alpha.vercel.app) |
 
 <br/>
 
 | **🌐 3D Portfolio** |
 |:---:|
 | **WebGL Playground.**<br/>Interactive 3D scenes with **React Three Fiber**.<br/>`Three.js` `Framer Motion` |
-| [🔴 Live Demo](https://vansh-jain-portfolio.vercel.app/) |
+| [🔴 Live Demo](https://vansh.me) |
 
 </div>
 
