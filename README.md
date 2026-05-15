@@ -118,30 +118,8 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Saturday** 
 
-```text
-Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Wednesday                32 commits          ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Saturday                 55 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr 1 min          ██████████████████░░░░░░░   72.05 % 
-Bash                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-```
-
-
- Last Updated on 14/05/2026 02:54:21 UTC
+ Last Updated on 15/05/2026 02:55:07 UTC
 <!--END_SECTION:waka-->
 </div>
 
