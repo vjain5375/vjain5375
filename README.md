@@ -118,8 +118,32 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Saturday** 
 
- Last Updated on 15/05/2026 02:55:07 UTC
+```text
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Wednesday                32 commits          ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Saturday                 55 commits          ███████████░░░░░░░░░░░░░░   45.45 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 hr 29 mins        ██████████████░░░░░░░░░░░   56.71 % 
+Python                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+```
+
+
+ Last Updated on 16/05/2026 02:43:19 UTC
 <!--END_SECTION:waka-->
 </div>
 
