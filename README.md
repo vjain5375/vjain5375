@@ -135,15 +135,15 @@ Sunday                   6 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ██████████████████░░░░░░░   71.14 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               5 hrs 39 mins       ███████████████████████░░   92.47 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
- Last Updated on 04/07/2026 02:40:17 UTC
+ Last Updated on 05/07/2026 02:51:17 UTC
 <!--END_SECTION:waka-->
 </div>
 
