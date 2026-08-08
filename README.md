@@ -118,8 +118,58 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2051%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 02:32:25 UTC
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Saturday                 55 commits          █████████░░░░░░░░░░░░░░░░   36.42 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               56 mins             █████████████████░░░░░░░░   68.79 % 
+Markdown                 24 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 22 mins (100.0%)
+
+✍️ 142 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 4,297,370 Input Tokens, 34,994 Output Tokens
+
+💵 $8.98 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 9 AI Prompts
+
+Sonnet                   161 lines           ████████████████░░░░░░░░░   64.14 % 
+Gemini                   90 lines            █████████░░░░░░░░░░░░░░░░   35.86 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 180 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 01:21:07 UTC
 <!--END_SECTION:waka-->
 </div>
 
