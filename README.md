@@ -118,7 +118,7 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2018%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -137,39 +137,38 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.61 % 
-JavaScript               56 mins             ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               1 hr 8 mins         ████████████████████░░░░░   78.85 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 1 hr 26 mins (100.0%)
 
-✍️ 152 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,411,875 Input Tokens, 72,282 Output Tokens
+🔤 114,505 Input Tokens, 37,288 Output Tokens
 
-💵 $11.44 Estimated AI Cost This Week
+💵 $3.71 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 39 AI Prompts
+🧠 7 AI Sessions, 32 AI Prompts
 
-Sonnet                   171 lines           ████████████████░░░░░░░░░   65.52 % 
-Gemini                   90 lines            █████████░░░░░░░░░░░░░░░░   34.48 % 
+Gemini                   90 lines            █████████████████████░░░░   83.33 % 
+Sonnet                   18 lines            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 01:45:42 UTC
+ Last Updated on 14/08/2026 01:43:42 UTC
 <!--END_SECTION:waka-->
 </div>
 
