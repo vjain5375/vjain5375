@@ -137,38 +137,38 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   33 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+TypeScript               37 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Python                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (99.73%)
+⏱ AI Coding Time: 2 hrs 11 mins (99.84%)
 
-✍️ 172 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 502 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 191,456 Input Tokens, 14,936 Output Tokens
+🔤 258,624 Input Tokens, 49,049 Output Tokens
 
-💵 $2.25 Estimated AI Cost This Week
+💵 $4.34 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 7 AI Sessions, 34 AI Prompts
 
-Sonnet                   243 lines           █████████████████████████   100.00 % 
+Sonnet                   573 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 976 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 458 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 01:04:18 UTC
+ Last Updated on 21/08/2026 01:07:56 UTC
 <!--END_SECTION:waka-->
 </div>
 
