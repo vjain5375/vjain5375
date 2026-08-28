@@ -118,18 +118,18 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2040%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Saturday                 55 commits          █████████░░░░░░░░░░░░░░░░   36.42 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Monday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Saturday                 55 commits          █████████░░░░░░░░░░░░░░░░   35.71 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 
@@ -137,37 +137,37 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        █████████████████░░░░░░░░   66.21 % 
-Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TypeScript               2 hrs 2 mins        ██████████████░░░░░░░░░░░   54.17 % 
+Other                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+SQL                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 44 mins (99.08%)
 
-✍️ 1,083 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,299 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 1,989,042 Input Tokens, 111,782 Output Tokens
+🔤 4,977,266 Input Tokens, 225,142 Output Tokens
 
-💵 $14.40 Estimated AI Cost This Week
+💵 $43.19 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 37 AI Prompts
+🧠 9 AI Sessions, 54 AI Prompts
 
-Sonnet                   1,167 lines         █████████████████████████   100.00 % 
+Sonnet                   1,409 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 591 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 07:15:11 UTC
+ Last Updated on 28/08/2026 09:28:20 UTC
 <!--END_SECTION:waka-->
 </div>
 
