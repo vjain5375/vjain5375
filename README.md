@@ -144,28 +144,6 @@ Markdown                 21 mins             ██░░░░░░░░░�
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 44 mins (99.08%)
-
-✍️ 1,299 lines written by AI, 1 lines written by hand (99.92% AI-written)
-
-🔤 4,977,266 Input Tokens, 225,142 Output Tokens
-
-💵 $43.19 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 54 AI Prompts
-
-Sonnet                   1,409 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 591 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
-```
-
 
  Last Updated on 28/08/2026 09:28:20 UTC
 <!--END_SECTION:waka-->
