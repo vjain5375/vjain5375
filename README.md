@@ -118,7 +118,7 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2053%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -137,38 +137,38 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.54 % 
-Other                    1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+TypeScript               1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   34.96 % 
+Other                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (93.84%)
+⏱ AI Coding Time: 4 hrs 12 mins (92.63%)
 
-✍️ 1,163 lines written by AI, 140 lines written by hand (89.26% AI-written)
+✍️ 611 lines written by AI, 140 lines written by hand (81.36% AI-written)
 
-🔤 6,057,049 Input Tokens, 244,668 Output Tokens
+🔤 4,391,182 Input Tokens, 172,731 Output Tokens
 
-💵 $47.55 Estimated AI Cost This Week
+💵 $37.10 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 62 AI Prompts
+🧠 6 AI Sessions, 57 AI Prompts
 
-Sonnet                   1,228 lines         ████████████████████████░   96.09 % 
-Gemini                   50 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Sonnet                   663 lines           ███████████████████████░░   92.99 % 
+Gemini                   50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.26% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 9.87% of changed lines were hand-edited
+🤖 AI-Driven — 81.36% of written lines came from AI
+📝 Concise Prompter — average 241 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 16.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 02:49:41 UTC
+ Last Updated on 03/09/2026 02:53:46 UTC
 <!--END_SECTION:waka-->
 </div>
 
