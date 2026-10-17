@@ -118,7 +118,7 @@ I don't stick to one box—I build whatever interests me.
 <br />
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2037%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -137,39 +137,39 @@ Sunday                   21 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 39 mins       █████████████░░░░░░░░░░░░   52.91 % 
-Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    8 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.45 % 
+TypeScript               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+SQL                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 21 mins (99.98%)
+⏱ AI Coding Time: 17 hrs 15 mins (99.98%)
 
-✍️ 2,673 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,592 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,429,879 Input Tokens, 533,031 Output Tokens
+🔤 3,820,854 Input Tokens, 633,194 Output Tokens
 
-💵 $55.93 Estimated AI Cost This Week
+💵 $59.23 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 183 AI Prompts
+🧠 20 AI Sessions, 188 AI Prompts
 
-GPT                      2,318 lines         ██████████████████████░░░   86.40 % 
-Antigravity-Desktop      365 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+GPT                      3,265 lines         ██████████████████████░░░   89.94 % 
+Antigravity-Desktop      365 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 201 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 03:05:31 UTC
+ Last Updated on 17/10/2026 02:57:57 UTC
 <!--END_SECTION:waka-->
 </div>
 
